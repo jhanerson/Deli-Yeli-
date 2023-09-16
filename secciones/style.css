@@ -183,7 +183,10 @@ padding: 5px;
     height: 85%;
 
 }
-
+.img-style-A-1 a {
+    color: rgb(0, 0, 0);
+    text-decoration: none;
+}
 
 .img-style-A-6 {
 
